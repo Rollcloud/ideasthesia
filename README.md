@@ -6,7 +6,7 @@ A quick way to display number-letter colour associations
 `pip install pipenv`
 
 # install
-`pipenv sync; cp docs/colours.py colours.py`
+`pipenv install ; cp docs/colours.py colours.py`
 
 # run
 `pipenv run python run_associations.py`
